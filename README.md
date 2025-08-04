@@ -1,5 +1,5 @@
 # ai-compiler-journey
-Study log for Enerzai AI Compiler position
+Study log for
 
 # Day 1 Report
 
