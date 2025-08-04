@@ -3,5 +3,8 @@ Study log for
 
 # Day 1 Report
 
-## 한 것
-- Hello, Enerzai! 출력, 백준 2558 / 9498 / 10871 / 10952 작성.
+- Hello, Enerzai! 출력, 백준 2558번 작성.
+
+# Day 2 Report
+
+- 백준 9498 / 10871 / 10952번 작성.
