@@ -8,3 +8,7 @@ Study log for
 # Day 2 Report
 
 - 백준 9498 / 10871 / 10952번 작성.
+
+# Day 3 Report
+
+- 백준 1546 / 10818번 작성.
