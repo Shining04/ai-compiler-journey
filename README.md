@@ -11,4 +11,4 @@ Study log for
 
 # Day 3 Report
 
-- 백준 1546 / 10818번 작성.
+- 백준 1546 / 10818번 작성 및 간단한 calculator.cpp 작성.
